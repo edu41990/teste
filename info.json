@@ -1,0 +1,8 @@
+{
+    "server": {
+        "port": 8085,
+        "version": "2.0.1",
+        "update": true,
+        "link": "https://jimboy3100.github.io/ExampleScripts/agario-bots2/config.json"
+    }
+}
